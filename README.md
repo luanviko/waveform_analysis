@@ -8,7 +8,7 @@ Follow through this notebook to:
 
 3. Generate waveform figures for a given event.
 
-4. Store the pulse information on a ROOT file.
+4. Store the pulse information in a ROOT file.
 
 
 ## Jupyter start-up
