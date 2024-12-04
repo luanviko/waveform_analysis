@@ -10,6 +10,13 @@ Follow through this notebook to:
 
 4. Store the pulse information in a ROOT file.
 
+## Cloning the Repository to your Computer
+
+You may either directly download the ```waveform_analysis.ipynb``` to your computer, or, if you have git installed, you may clone this repository by using
+
+```git clone https://github.com/luanviko/waveform_analysis```
+
+on a terminal window. This command will copy the contents of this repository to the directory you currently are.
 
 ## Jupyter start-up
 
@@ -31,7 +38,7 @@ Follow through the notebook by running each cell with ```Shit+Enter```.
 This notebook requires the installation of the packages: ```jupyter```, ```matplotlib```, ```numpy```, and ```uproot```.
 
 
-### Install using
+### Using pip
 
 These steps should work on most linux distros and macOS versions.
 
